@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Breakrule 
 - 👀 I’m interested in software dev
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me\
+- 📫 How to reach me :
 - 1. Instagram @rezky.gg
 - 2. Linkedin https://www.linkedin.com/in/rezky-maulana/
 <!---
